@@ -1,7 +1,8 @@
 # flying-squid-irc
 
-
 Flying-squid irc plugin
+
+## Usage
 
 To use it : `npm install flying-squid-irc` in your flying-squid instance.
 And then add something like this in your settings:
@@ -14,3 +15,9 @@ And then add something like this in your settings:
     "startingMessage":"I live!"
   }
 ```
+
+## History 
+
+### 0.0.0
+
+* works
