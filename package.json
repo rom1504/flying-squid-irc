@@ -1,0 +1,27 @@
+{
+  "name": "flying-squid-irc",
+  "version": "0.0.0",
+  "description": "make a bridge between flying-squid and an irc chan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rom1504/flying-squid-irc.git"
+  },
+  "keywords": [
+    "flying-squid",
+    "minecraft",
+    "irc"
+  ],
+  "author": "Romain Beaumont <romain.rom1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rom1504/flying-squid-irc/issues"
+  },
+  "homepage": "https://github.com/rom1504/flying-squid-irc#readme",
+  "dependencies": {
+    "irc": "^0.4.0"
+  }
+}
