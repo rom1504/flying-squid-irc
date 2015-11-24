@@ -18,6 +18,9 @@ And then add something like this in your settings:
 
 ## History 
 
+### 0.2.0
+* add connection/disconnection notice
+
 ### 0.1.0
 * improve irc messages a bit
 * change according to flying-squid api
