@@ -22,6 +22,9 @@ module.exports.player=function(player,serv)
   var self=this;
    player.on('chat',function(data){
      self.irc.say(self.settings.chan, "[mc] "+player.username+": "+data.message);
-   })
+   });
+
+  player.on("connected",function() {self.irc.say(self.settings.chan, player.username + ' connected')});
+  player.on("disconnected",function() { self.irc.say(self.settings.chan, player.username + ' disconnected')});
 };
 
