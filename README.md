@@ -18,6 +18,10 @@ And then add something like this in your settings:
 
 ## History 
 
+### 0.1.0
+* improve irc messages a bit
+* change according to flying-squid api
+
 ### 0.0.0
 
 * works
