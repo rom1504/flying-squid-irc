@@ -20,8 +20,8 @@ module.exports.server=function(serv){
 module.exports.player=function(player,serv)
 {
   var self=this;
-   player.on('chat',function(message){
-     self.irc.say(self.settings.chan, "[mc] "+player.username+": "+message);
+   player.on('chat',function(data){
+     self.irc.say(self.settings.chan, "[mc] "+player.username+": "+data.message);
    })
 };
 
