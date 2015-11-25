@@ -1,6 +1,6 @@
 {
   "name": "flying-squid-irc",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "make a bridge between flying-squid and an irc chan",
   "main": "index.js",
   "scripts": {

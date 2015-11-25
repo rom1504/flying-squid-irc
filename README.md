@@ -18,6 +18,9 @@ And then add something like this in your settings:
 
 ## History 
 
+### 0.2.1
+* add [mc] prefix to connection/disconnection
+
 ### 0.2.0
 * add connection/disconnection notice
 
