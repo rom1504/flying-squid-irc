@@ -1,7 +1,7 @@
 {
   "name": "flying-squid-irc",
   "version": "0.2.1",
-  "description": "make a bridge between flying-squid and an irc chan",
+  "description": "Make a bridge between flying-squid and an IRC channel.",
   "main": "dist/index.js",
   "scripts": {
     "compile": "babel -d dist/ src/",

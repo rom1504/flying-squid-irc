@@ -1,6 +1,6 @@
 # flying-squid-irc
 
-Flying-squid irc plugin
+Make a bridge between flying-squid and an IRC channel.
 
 ## Usage
 
