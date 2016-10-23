@@ -1,6 +1,6 @@
 # flying-squid-irc
 
-Make a bridge between flying-squid and an IRC channel.
+Make a bridge between flying-squid (or dazed-sheep!) and an IRC channel.
 
 ## Usage
 
