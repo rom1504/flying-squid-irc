@@ -21,6 +21,10 @@ And then add something like this in your settings:
 
 ## History 
 
+### 1.0.0
+
+* standardjs + no babel + update irc dep
+
 ### 0.2.1
 * add [mc] prefix to connection/disconnection
 

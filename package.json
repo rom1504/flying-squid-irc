@@ -1,6 +1,6 @@
 {
   "name": "flying-squid-irc",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "description": "Make a bridge between flying-squid and an IRC channel.",
   "main": "index.js",
   "scripts": {
