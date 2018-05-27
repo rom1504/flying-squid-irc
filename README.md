@@ -1,6 +1,9 @@
 # flying-squid-irc
 
-Make a bridge between flying-squid (or dazed-sheep!) and an IRC channel.
+[![NPM version](https://img.shields.io/npm/v/flying-squid-irc.svg)](http://npmjs.com/package/prismarine-biome)
+[![Build Status](https://circleci.com/gh/rom1504/flying-squid-irc/tree/master.svg?style=shield)](https://circleci.com/gh/rom1504/flying-squid-irc/tree/master)
+
+Make a bridge between flying-squid (or dazed-sheep!)  and an IRC channel.
 
 ## Usage
 

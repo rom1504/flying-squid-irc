@@ -2,11 +2,10 @@
   "name": "flying-squid-irc",
   "version": "0.2.1",
   "description": "Make a bridge between flying-squid and an IRC channel.",
-  "main": "dist/index.js",
+  "main": "index.js",
   "scripts": {
-    "compile": "babel -d dist/ src/",
-    "prepublish": "npm run compile",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "standard",
+    "test": "npm run lint"
   },
   "repository": {
     "type": "git",
@@ -24,9 +23,9 @@
   },
   "homepage": "https://github.com/rom1504/flying-squid-irc#readme",
   "dependencies": {
-    "irc": "^0.4.0"
+    "irc": "^0.5.2"
   },
   "devDependencies": {
-    "babel": "^5.8.34"
+    "standard": "^11.0.1"
   }
 }
